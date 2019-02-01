@@ -7,6 +7,10 @@ body:hover {
   background-color: pink;
 }
 
+div {
+  color: palevioletred;
+}
+
 body {
   margin: 40px;
   background-color: aquamarine;
